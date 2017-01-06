@@ -1,1 +1,1 @@
-# PHPForum
+This is a PHP Applcation to discuss PHP. I was inspired to make this one based off a recent tutorial I watched and there was a pop up saying that PHP 7 had been released. So, I got froggy and decided to play with the latest version of Drupal....This site right here is built on top of Drupal 7 if that tells you anything. I like Drupal sorta, but as far as CMS's go Drupal is a bear, I'll keep messing around with it until I get it solid.
